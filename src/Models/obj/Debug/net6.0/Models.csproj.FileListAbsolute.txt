@@ -22,3 +22,16 @@ C:\Users\joker\Desktop\src\Models\obj\Debug\net6.0\Models.dll
 C:\Users\joker\Desktop\src\Models\obj\Debug\net6.0\refint\Models.dll
 C:\Users\joker\Desktop\src\Models\obj\Debug\net6.0\Models.pdb
 C:\Users\joker\Desktop\src\Models\obj\Debug\net6.0\ref\Models.dll
+C:\Users\joker\Desktop\Web1\src\Models\bin\Debug\net6.0\Models.deps.json
+C:\Users\joker\Desktop\Web1\src\Models\bin\Debug\net6.0\Models.dll
+C:\Users\joker\Desktop\Web1\src\Models\bin\Debug\net6.0\Models.pdb
+C:\Users\joker\Desktop\Web1\src\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+C:\Users\joker\Desktop\Web1\src\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joker\Desktop\Web1\src\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+C:\Users\joker\Desktop\Web1\src\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+C:\Users\joker\Desktop\Web1\src\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\joker\Desktop\Web1\src\Models\obj\Debug\net6.0\Models.sourcelink.json
+C:\Users\joker\Desktop\Web1\src\Models\obj\Debug\net6.0\Models.dll
+C:\Users\joker\Desktop\Web1\src\Models\obj\Debug\net6.0\refint\Models.dll
+C:\Users\joker\Desktop\Web1\src\Models\obj\Debug\net6.0\Models.pdb
+C:\Users\joker\Desktop\Web1\src\Models\obj\Debug\net6.0\ref\Models.dll

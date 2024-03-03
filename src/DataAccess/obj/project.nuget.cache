@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3tO6n2t21kHTjqKAkFwAiohrmnI8nPByLHDJNM3n1l3O99R3F/Yq0lHIkMh63cZ2gdcEefZC94pv1Ofe31UeDA==",
+  "dgSpecHash": "6wZmLkzqYMl2467IsJvLDwc6F61kZP11nJTUN3S4/7hjrelw3zqFfFvMo6UX2cbVFd8iUaAwwgf+Hw/siPyBOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joker\\Desktop\\src\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\joker\\Desktop\\Web1\\src\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joker\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",
     "C:\\Users\\joker\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.13\\microsoft.entityframeworkcore.abstractions.7.0.13.nupkg.sha512",

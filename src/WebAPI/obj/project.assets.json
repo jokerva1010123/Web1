@@ -1207,11 +1207,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joker\\Desktop\\src\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\joker\\Desktop\\Web1\\src\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\joker\\Desktop\\src\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Users\\joker\\Desktop\\Web1\\src\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\joker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joker\\Desktop\\src\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\joker\\Desktop\\Web1\\src\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joker\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1228,14 +1228,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\joker\\Desktop\\src\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\joker\\Desktop\\src\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\joker\\Desktop\\Web1\\src\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\joker\\Desktop\\Web1\\src\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\joker\\Desktop\\src\\Models\\Models.csproj": {
-              "projectPath": "C:\\Users\\joker\\Desktop\\src\\Models\\Models.csproj"
+            "C:\\Users\\joker\\Desktop\\Web1\\src\\Models\\Models.csproj": {
+              "projectPath": "C:\\Users\\joker\\Desktop\\Web1\\src\\Models\\Models.csproj"
             },
-            "C:\\Users\\joker\\Desktop\\src\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\joker\\Desktop\\src\\Services\\Services.csproj"
+            "C:\\Users\\joker\\Desktop\\Web1\\src\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\joker\\Desktop\\Web1\\src\\Services\\Services.csproj"
             }
           }
         }

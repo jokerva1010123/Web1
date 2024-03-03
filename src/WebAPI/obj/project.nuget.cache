@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6bc62pfrB+/zFmWHMf0OdVFru7Ub0rRP81/6b+aESU/e5aqSzLIsRo8ujvkZTLNyG1RDb3WeqGifsIHgO2QKsg==",
+  "dgSpecHash": "3vc/K5n7Zzjjl3DUpT9Zkr+8hCG4gp7dhsl9wo5r53/tu0+QWTM66OqSgEIY65UU+F8e10kfkk9IMYJKm+/1Ag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joker\\Desktop\\src\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\joker\\Desktop\\Web1\\src\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joker\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",
     "C:\\Users\\joker\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.13\\microsoft.entityframeworkcore.abstractions.7.0.13.nupkg.sha512",

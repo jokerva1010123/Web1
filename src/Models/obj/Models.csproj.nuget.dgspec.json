@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joker\\Desktop\\src\\Models\\Models.csproj": {}
+    "C:\\Users\\joker\\Desktop\\Web1\\src\\Models\\Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joker\\Desktop\\src\\Models\\Models.csproj": {
+    "C:\\Users\\joker\\Desktop\\Web1\\src\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joker\\Desktop\\src\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Users\\joker\\Desktop\\Web1\\src\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\joker\\Desktop\\src\\Models\\Models.csproj",
+        "projectPath": "C:\\Users\\joker\\Desktop\\Web1\\src\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\joker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joker\\Desktop\\src\\Models\\obj\\",
+        "outputPath": "C:\\Users\\joker\\Desktop\\Web1\\src\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joker\\AppData\\Roaming\\NuGet\\NuGet.Config",
