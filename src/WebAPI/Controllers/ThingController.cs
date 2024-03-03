@@ -96,11 +96,11 @@ namespace WebAPI.Controllers
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status422UnprocessableEntity)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-        public async Task<IActionResult> changeRoomThing([FromRoute] string codeThing, [FromBody] int id_room)
+        public async Task<IActionResult> changeRoomThing([FromRoute] string codeThing, [FromBody] id_st id_room)
         {
             try
             {
-                await thingServices.changeRoomThing(codeThing, id_room);
+                await thingServices.changeRoomThing(codeThing, Convert.ToInt32(id_room.Id));
                 return StatusCode(StatusCodes.Status200OK);
             }
             catch (InputInvalidException ex)
@@ -130,11 +130,11 @@ namespace WebAPI.Controllers
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status422UnprocessableEntity)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-        public async Task<IActionResult> changeStudentThing([FromRoute] string codeThing, [FromBody] int id_student)
+        public async Task<IActionResult> changeStudentThing([FromRoute] string codeThing, [FromBody] id_st id_student)
         {
             try
             {
-                await thingServices.changeStudentThing(codeThing, id_student);
+                await thingServices.changeStudentThing(codeThing, Convert.ToInt32(id_student.Id));
                 return StatusCode(StatusCodes.Status200OK);
             }
             catch (InputInvalidException ex)

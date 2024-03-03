@@ -6,4 +6,9 @@
         public string Group { get; set; }
         public string Code { get; set; }
     }
+
+    public class id_st
+    {
+        public string Id { get; set; }
+    }
 }
